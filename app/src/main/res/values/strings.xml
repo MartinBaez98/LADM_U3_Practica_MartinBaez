@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LADM_U3_ Practica_MartinBaez</string>
+    <array name="clavebusqueda">
+        <item>Nombre de consumidor</item>
+        <item>Descripción de pedido</item>
+    </array>
+</resources>
